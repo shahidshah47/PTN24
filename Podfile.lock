@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FTIndicator/FTProgressIndicator (1.2.9)
+  - PIPKit (0.2.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SwiftyJSON (5.0.0)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - FTIndicator/FTProgressIndicator
+  - PIPKit
+  - SDWebImage
+  - SwiftyJSON
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - FTIndicator
+    - PIPKit
+    - SDWebImage
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FTIndicator: f7f071fd159e5befa1d040a9ef2e3ab53fa9322c
+  PIPKit: 00fd62aa4967f9cef1eca1a5587d3192c23881e1
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 8731fad361e65505682e3b58aba5ffe75417f6bc
+
+COCOAPODS: 1.10.1

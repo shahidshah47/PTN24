@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3340dacc-0f20-4feb-b7cc-3fa8d3384996" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CTV/AppConstant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/PTN24.imageset/20637935_335523476888783_4300490687002853339_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/PTN24.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/collapse_video.imageset/001-collapse-two-arrows-diagonal-symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/collapse_video.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/expand_video.imageset/002-maximize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/expand_video.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/facebook.imageset/003-facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/facebook.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/more.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/more.imageset/more-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/more.imageset/more-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/more.imageset/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/no-video.imageset/001-no-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/no-video.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/pause.imageset/001-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/pause.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/play.imageset/002-music-player-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/play.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/television_placeholder.imageset/001-television-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/television_placeholder.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/twitter.imageset/001-twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/twitter.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/video.imageset/002-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/video.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/youtube.imageset/002-youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/youtube.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIButtonX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIImageViewX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UILabelX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UISliderX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UITextFieldX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIViewAnchorPoint.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIViewControllerX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIViewX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIViewXRadialGradient.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/DesignableX/UIVisualEffectViewX.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/Modal.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/PlayList.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/PlayListView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/PlaylistCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/ShareView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/VideoCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/VideoPlayerCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/WebService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTV/YouTubePlayerView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/xcuserdata/sagar.xcuserdatad/xcschemes/CTV.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/xcuserdata/sagar.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV.xcodeproj/xcuserdata/bhavin.xcuserdatad/xcschemes/CTV.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/xcuserdata/bhavin.xcuserdatad/xcschemes/CTV.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV.xcodeproj/xcuserdata/bhavin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/PTN 24.xcodeproj/xcuserdata/bhavin.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/CTV/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/CTV/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/CTV/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/CTV/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTV/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/CTV/ViewController.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_11D8C887-88B0-48FF-BB81-983D64C44670" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ozvkUp1Inu3Z2ouYbTWZZ59IqE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CocoaPods" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PTN 24" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTN 24" TARGET_NAME="PTN 24" CONFIG_NAME="Debug" SCHEME_NAME="PTN 24" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="PTN 24" RUN_TARGET_NAME="PTN 24" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3340dacc-0f20-4feb-b7cc-3fa8d3384996" name="Default Changelist" comment="" />
+      <created>1614302386477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614302386477</updated>
+      <workItem from="1614302392746" duration="52000" />
+      <workItem from="1614302488042" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
